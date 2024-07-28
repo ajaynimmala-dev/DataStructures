@@ -5,6 +5,7 @@ array problems link https://leetcode.com/tag/array/
 
 ## Problems
 * P1:Two Sum
-* P2:Median of Two Sorted Arrays
-* P3:container with most water
-* P4:3sum
+* P4:Median of Two Sorted Arrays
+* P11:container with most water
+* P15:3sum
+* P7:Reverse integer
