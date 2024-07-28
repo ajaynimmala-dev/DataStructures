@@ -1,21 +1,15 @@
 class Solution(object):
-    def threeSum(self, nums):
+    def findMedianSortedArrays(self, nums1, nums2):
         """
-        :type nums: List[int]
-        :rtype: List[List[int]]
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: float
         """
-        self.nums = nums
-        res = []
-        l = len(nums)
-        i = 0
-        while i != l:
-            for j in range(0, l):
-                for k in range(0, l):
-                    if i != j and j != k and k != i:
-                        s = [nums[i], nums[j], nums[k]]
-                        s.sort()
-                        if nums[i] + nums[j] + nums[k] == 0:
-                            if s not in res:
-                                res.append(s)
-            i += 1
-        return res
+        self.nums1=nums1
+        self.nums2=nums2
+        nums1=nums1+nums2
+        nums1.sort()
+        if len(nums1)%2==0:
+            return((nums1[len(nums1)//2]/2.0)+(nums1[len(nums1)//2-1])/2.0)
+        else:
+            return(nums1[(len(nums1)//2)])
