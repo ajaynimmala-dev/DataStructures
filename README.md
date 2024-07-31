@@ -10,3 +10,5 @@ array problems link https://leetcode.com/tag/array/
 * P15:3sum
 * P7:Reverse integer
 * P18:4sum
+* P26:Remove duplicates from sorted array
+* 
