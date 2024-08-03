@@ -12,3 +12,4 @@ array problems link https://leetcode.com/tag/array/
 * P18:4sum
 * P26:Remove duplicates from sorted array
 * P27:Remove Element
+* P31:Next permutation
