@@ -14,3 +14,4 @@ array problems link https://leetcode.com/tag/array/
 * P27:Remove Element
 * P31:Next permutation
 * P33:Search in rotated sorted array
+* P34:FInd first and last position of given element in sorted array
