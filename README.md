@@ -13,3 +13,4 @@ array problems link https://leetcode.com/tag/array/
 * P26:Remove duplicates from sorted array
 * P27:Remove Element
 * P31:Next permutation
+* P33:Search in rotated sorted array
