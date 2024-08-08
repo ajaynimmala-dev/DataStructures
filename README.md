@@ -16,3 +16,4 @@ array problems link https://leetcode.com/tag/array/
 * P33:Search in rotated sorted array
 * P34:FInd first and last position of given element in sorted array
 * P35:Search insert position
+* P36Valid sudoko
