@@ -4,12 +4,13 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        self.height=height
-        areas=[]
-        for i in range(1,len(height)+1):
-            for j in range(i+1,len(height)+1):
-                if height[i-1]<height[j-1]:
-                    areas.append(height[i-1]*(j-i))
-                else:
-                    areas.append(height[j-1]*(j-i))
-        return(max(areas))
+        res = 0
+        l, r = (0, len(height) - 1)
+        while l < r:
+            area = (min(height[l], height[r])) * (r - l)
+            res = max(area, res)
+            if height[l] < height[r]:
+                l += 1
+            else:
+                r -= 1
+        return (res)
