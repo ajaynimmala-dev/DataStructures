@@ -18,4 +18,5 @@ array problems link https://leetcode.com/tag/array/
 * P35:[Search insert position](Arrays-md/P35.md)-[solution](Arrays/P35.py)
 * P36:[Valid sudoko](Arrays-md/P36.md)-[solution](Arrays/P36.py)
 * P41:[first missing positive](Arrays-md/P41.md)-[solution](Arrays/P41.py)
-* P48:[Rotate image](Arrays-md/P48.md)-[solution](Arrays/P48.py))
+* P48:[Rotate image](Arrays-md/P48.md)-[solution](Arrays/P48.py)
+* P49:[Group Anagram](Arrays-md/P49.md)-[solution](Arrays/P49.py)
