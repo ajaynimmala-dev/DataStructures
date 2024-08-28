@@ -10,6 +10,7 @@ array problems link https://leetcode.com/tag/array/
 * P15:[3sum](Arrays-md/P15.md)-[solution](Arrays/P15.py)
 * P7:[Reverse integer](Arrays-md/P7.md)-[solution](Arrays/P7.py)
 * P18:[4sum](Arrays-md/P18.md)-[solution](Arrays/P18.py)
+* P20:[Valid Parentheses](Arrays-md/P20.md)-[solution](Arrays/P20.py)
 * P26:[Remove duplicates from sorted array](Arrays-md/P26.md)-[solution](Arrays/P26.py)
 * P27:[Remove Element](Arrays-md/P27.md)-[solution](Arrays/P27.py)
 * P31:[Next permutation](Arrays-md/P31.md)-[solution](Arrays/P31.py)
