@@ -26,5 +26,5 @@ array problems link https://leetcode.com/tag/array/
 * P53:[maximum subarray](Arrays-md/P53.md)-[solution](Arrays/P53.py)
 * P54:[spiral matrix](Arrays-md/P54.md)-[solution](Arrays/P54.py)
 * P58:[length of the last word](Arrays-md/P58.md)-[solution](Arrays/P58.py)
-* P66:[Plus one](Arrays-md/P66.md)-[solution](Arrays/P66.py))
+* P66:[Plus one](Arrays-md/P66.md)-[solution](Arrays/66.py))
 * P75:[sort colours](Arrays-md/P75.md)-[solution](Arrays/P75.py)
