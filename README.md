@@ -28,3 +28,4 @@ array problems link https://leetcode.com/tag/array/
 * P58:[length of the last word](Arrays-md/P58.md)-[solution](Arrays/P58.py)
 * P66:[Plus one](Arrays-md/P66.md)-[solution](Arrays/P66.py))
 * P75:[sort colours](Arrays-md/P75.md)-[solution](Arrays/P75.py)
+* P88:[merge sorted Arrays](Arrays-md/P88.md)-[solution](Arrays/P88.py)
