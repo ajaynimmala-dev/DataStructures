@@ -1,5 +1,5 @@
 class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
+    def lengthofLongestSubstring(self, s: str) -> int:
         res=[0]
         temp=[]
         def solve(i,s,temp):
