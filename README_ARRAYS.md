@@ -1,11 +1,10 @@
-# DataStuctures
+# DataStructures
 array problems link https://leetcode.com/tag/array/
 
 
 
 ## Problems
 * P1:[Two Sum](Arrays-md/P1.md)-[solution](Arrays/P1.py)
-* P4:[Median of Two Sorted Arrays](Arrays-md/P4.md)-[solution](Arrays/P4.py)
 * P11:[container with most water](Arrays-md/P11.md)-[solution](Arrays/P11.py)
 * P15:[3sum](Arrays-md/P15.md)-[solution](Arrays/P15.py)
 * P7:[Reverse integer](Arrays-md/P7.md)-[solution](Arrays/P7.py)
@@ -14,9 +13,6 @@ array problems link https://leetcode.com/tag/array/
 * P26:[Remove duplicates from sorted array](Arrays-md/P26.md)-[solution](Arrays/P26.py)
 * P27:[Remove Element](Arrays-md/P27.md)-[solution](Arrays/P27.py)
 * P31:[Next permutation](Arrays-md/P31.md)-[solution](Arrays/P31.py)
-* P33:[Search in rotated sorted array](Arrays-md/P33.md)-[solution](Arrays/P33.py)
-* P34:[FInd first and last position of given element in sorted array](Arrays-md/P34.md)-[solution](Arrays/P34.py)
-* P35:[Search insert position](Arrays-md/P35.md)-[solution](Arrays/P35.py)
 * P36:[Valid sudoko](Arrays-md/P36.md)-[solution](Arrays/P36.py)
 * P37:[solve sudoko](Arrays-md/P37.md)-[solution](Arrays/P37.py)
 * P39:[combination sum](Arrays-md/P39.md)-[solution](Arrays/P39.py)
