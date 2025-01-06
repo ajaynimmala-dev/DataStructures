@@ -5,17 +5,26 @@ class Solution(object):
         :type target: int
         :rtype: List[List[int]]
         """
-        i = 0
         res = []
-        while i != (len(nums)):
-            for j in range(i + 1, len(nums)):
-                for k in range(j + 1, len(nums)):
-                    for l in range(k + 1, len(nums)):
-                        if nums[i] + nums[j] + nums[k] + nums[l] == target:
-                            x = [nums[i], nums[j], nums[k], nums[l]]
-                            x.sort()
-                            if x not in res:
-                                res.append(x)
+        nums.sort()
+        for i in range(len(nums) - 3):
+            for j in range(i + 1, len(nums) - 2):
+                l = j + 1
+                h = len(nums) - 1
+                while l < h:
+                    s = nums[i] + nums[j] + nums[l] + nums[h]
+                    if s == target:
+                        sub = [nums[i], nums[j], nums[l], nums[h]]
+                        sub.sort()
+                        if sub not in res:
+                            res.append(sub[:])
+                        else:
+                            l += 1
+                            h -= 1
+                    elif s > target:
+                        h -= 1
+                    else:
+                        l += 1
+        return res
 
-            i += 1
-        return (res)
+
