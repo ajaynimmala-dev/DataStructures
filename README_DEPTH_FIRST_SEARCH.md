@@ -1,0 +1,10 @@
+# DataStructures
+DFS problems link https://leetcode.com/problem-list/breadth-first-search/)
+* P79:[Wordsearch](Depth_first_search-md/P79.md)-[solution](Depth_first_search/P79.py)
+* p94:[Binary Tree Inorder Traversal](Depth_first_search-md/P94.md)-[solution](Depth_first_search/P94.py)
+* p98:[Validate Binary Search Tree](Depth_first_search-md/P98.md)-[solution](Depth_first_search/P98.py)
+* p99:[Recovery Binary Search Tree](Depth_first_search-md/P99.md)-[solution](Depth_first_search/P99.py)
+* p110:[Balanced Binary Tree](Depth_first_search-md/P110.md)-[solution](Depth_first_search/P110.py)
+* p111:[Minimum Depth of Binary Tree](Depth_first_search-md/P111.md)-[solution](Depth_first_search/P111.py)
+* p113:[Path Sum ||](Depth_first_search-md/P113.md)-[solution](Depth_first_search/p113.py)
+* p114:[Flattened Binary Tree to Linked List](Depth_first_search-md/P114.md)-[solution](Depth_first_search/p114.py)
