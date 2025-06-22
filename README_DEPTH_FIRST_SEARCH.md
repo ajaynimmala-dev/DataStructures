@@ -11,3 +11,7 @@ DFS problems link https://leetcode.com/problem-list/breadth-first-search/)
 * p129:[sum root to leaf numbers](Depth_first_search-md/P129.md)-[solution](Depth_first_search/P129.py)
 * p130:[surrounded regions](Depth_first_search-md/P130.md)-[solution](Depth_first_search/P130.py)
 * P144:[Binary Tree Preorder Traversal](Depth_first_search-md/P144.md)-[solution](Depth_first_search/P144.py)
+* P145:[Binary Tree postorder Traversal](Depth_first_search-md/P145.md)-[solution](Depth_first_search/P145.py)
+* P199:[Binary Tree Right Side View](Depth_first_search-md/P199.md)-[solution](Depth_first_search/P199.py)
+* P200:[Number of islands](Depth_first_search-md/P200.md)-[solution](Depth_first_search/P200.py)
+* 
