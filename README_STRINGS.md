@@ -8,5 +8,6 @@ Strings problems link=https://leetcode.com/problem-list/linked-list/
 * P8:[string to integer](Strings-md/P8.md)-[solution](Strings/P8.py)
 * P12:[Integer to roman](Strings-md/P12.md)-[solution](Strings/P12.py)
 * P20:[valid Parenthesis](Strings-md/P20.md)-[solution](Strings/P20.py)
+* P28:[substring concatenation of all words](Strings-md/P28.md)-[solution](Strings/P28.py)
 * P49:[Group Anagram](Strings-md/P49.md)-[solution](Strings/P49.py)
 * P58:[length of the last word](Strings-md/P58.md)-[solution](Strings/P58.py)
