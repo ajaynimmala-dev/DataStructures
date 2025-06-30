@@ -1,8 +1,10 @@
 # DatsStructures
 BackTrackingProblems link:https://leetcode.com/problem-list/backtracking/
 
-
-* P39:[combination sum](BackTracking-md/P39.md)-[solution](BackTracking/P39.py)
+* P17:[Letter Combination of a Phone Number](BackTracking-md/P17.md)-[solution](BackTracking/P17.py)
+* P22:[Generate Parentheses](BackTracking-md/P22.md))-[solution](BackTracking/P17.py)
+* P39:[combination sum 1](BackTracking-md/P39.md)-[solution](BackTracking/P39.py)
+* P40:[combination sum 2](BackTracking-md/P40.md)-[solution](BackTracking/P40.py)
 * P46:[Permutations](BackTracking-md/P46.md)-[solution](BackTracking/P46.py)
 * P77:[combinations](BackTracking-md/P77.md)-[solution](BackTracking/P77.py)
 * P78:[subsets](BackTracking-md/P78.md)-[solution](BackTracking/P78.py)
