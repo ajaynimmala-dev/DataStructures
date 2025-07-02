@@ -13,3 +13,6 @@ BackTrackingProblems link:https://leetcode.com/problem-list/backtracking/
 * P78:[subsets](BackTracking-md/P78.md)-[solution](BackTracking/P78.py)
 * P79:[Word Search](BackTracking-md/P79.md)-[solution](BackTracking/P79.py)
 * P90:[subsets II](BackTracking-md/P90.md)-[solution](BackTracking/P90.py)
+* P93:[Restore IP Address](BackTracking-md/P93.md)-[solution](BackTracking/P93.py)
+* P113:[Path sum 2](BackTracking-md/P113.md)-[solution](BackTracking/P113.py)
+* P131:[Palindrome Partitioning](BackTracking-md/P131.md)-[solution](BackTracking/P131.py)
