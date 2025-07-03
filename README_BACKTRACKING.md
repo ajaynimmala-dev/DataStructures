@@ -16,3 +16,6 @@ BackTrackingProblems link:https://leetcode.com/problem-list/backtracking/
 * P93:[Restore IP Address](BackTracking-md/P93.md)-[solution](BackTracking/P93.py)
 * P113:[Path sum 2](BackTracking-md/P113.md)-[solution](BackTracking/P113.py)
 * P131:[Palindrome Partitioning](BackTracking-md/P131.md)-[solution](BackTracking/P131.py)
+* P140:[WordBreak 2](BackTracking-md/P131.md)-[solution](BackTracking/P131.py)
+* P216:[Combinationsum 3](BackTracking-md/P216.md)-[solution](BackTracking/P216.py)
+* P257:[Binary Tree Paths](BackTracking-md/P257.md)-[solution](BackTracking/P257.py)
